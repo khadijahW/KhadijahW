@@ -1,4 +1,8 @@
 # Welcome to My GitHub Profile! 👋
+![](https://komarev.com/ghpvc/?username=khadijahW&color=green)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khadijahW)](https://git.io/streak-stats)
 
 Mechanical Engineer with a passion for cybersecurity, I bring a unique blend of analytical thinking and problem solving skills to the world of information security. Eager to apply my engineering background in a new context, I'm diving into the realm of cybersecurity. I am currenetly learning  and evolving my skills to bridge the gap between physical and digital world for a more secure future!
 
