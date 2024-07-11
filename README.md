@@ -2,11 +2,15 @@
 ![](https://komarev.com/ghpvc/?username=khadijahW&color=green) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khadijahW&theme=tokyonight)](https://git.io/streak-stats)
-
+<br>
+</br>
 ![Khadijah Github Stats](https://github-readme-stats.vercel.app/api?username=khadijahW&show_icons=true&theme=tokyonight)
 
 Feel free to connect with me on LinkedIn
 (https://www.linkedin.com/in/khadijah-w-44bb48238/)
+
+
+# Projects 
 ### Project 1: 
 [Building a SOC](https://github.com/Flash028/Flash028/blob/main/BUILDING%20A%20SOC/building-a-soc.md)
 - Description: In this project I designed a SOC + Honeynet using the Microsoft Azure Cloud Enviroment. This initiative aimed to enhance my cybersecurity capabiltiies through simulated attack scenarious and real-time threat monitoring.
