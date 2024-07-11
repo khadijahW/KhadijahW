@@ -2,35 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=khadijahW&color=green)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khadijahW)](https://git.io/streak-stats)
-
-Mechanical Engineer with a passion for cybersecurity, I bring a unique blend of analytical thinking and problem solving skills to the world of information security. Eager to apply my engineering background in a new context, I'm diving into the realm of cybersecurity. I am currenetly learning  and evolving my skills to bridge the gap between physical and digital world for a more secure future!
-
-[![MasterHead](https://github.com/Flash028/Flash028/blob/1fbe927448354f78c777b7195a4d91a745ed6a82/IMG_2025.jpg)](https://github.com/khadijahW)
-
-# Education
-## Western Governors University (WGU)
-*Master of Science in Cybersecurity Information Assurance*
-- *Degree Earned*: February 2024
-- *Relevant Courses:*
-  - Ethical Hacking
-  - Forensic and Network Intrusion
-  - Secure Software Design
-  - Secure Network Design
-  - Information Security and Assurance
-  - Cybersecurity Management I
-  - Cybersecurity Management II
-
-
-## University of Nevada, Las Vegas (UNLV)
-*Bachelor of Science in Mechanical Engineering*
-- *Degree Earned:* July 2021
-- *Relevant Courses:*
-  - Thermodynamics
-  - Fluid Dynamics
-  - Heat Transfer
-  - Mechanics of Materials
-  - Calculus 1,2&3
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khadijahW&theme=tokyonight)](https://git.io/streak-stats) ![Khadijah Github Stats](https://github-readme-stats.vercel.app/api?username=khadijahW&show_icons=true&theme=tokyonight)
 
 Feel free to connect with me on LinkedIn
 (https://www.linkedin.com/in/khadijah-w-44bb48238/)
