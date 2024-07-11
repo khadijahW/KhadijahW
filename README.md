@@ -1,8 +1,9 @@
 # Welcome to My GitHub Profile! 👋
-![](https://komarev.com/ghpvc/?username=khadijahW&color=green)
+![](https://komarev.com/ghpvc/?username=khadijahW&color=green) 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khadijahW&theme=tokyonight)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khadijahW&theme=tokyonight)](https://git.io/streak-stats) ![Khadijah Github Stats](https://github-readme-stats.vercel.app/api?username=khadijahW&show_icons=true&theme=tokyonight)
+![Khadijah Github Stats](https://github-readme-stats.vercel.app/api?username=khadijahW&show_icons=true&theme=tokyonight)
 
 Feel free to connect with me on LinkedIn
 (https://www.linkedin.com/in/khadijah-w-44bb48238/)
