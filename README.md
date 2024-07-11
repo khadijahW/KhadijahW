@@ -30,24 +30,10 @@ Feel free to connect with me on LinkedIn
 
 ### Project 5: 
 [Azure Cloud Resume](https://github.com/khadijahW/CyberFlash/blob/179579dcebc2476c707f70b37321e3e49116093f/README.md)
-
+- Desctiption: Created a cloud resume using Azure services
+- Technologies used: Azure Functions,Azure Storage, Cosmos DB,Azure App Services,Front Door & CDN profiles
 
 
 
 Thanks for visiting my GitHub profile! 🚀
-## Hi there 👋
 
-<!--
-**khadijahW/khadijahW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
