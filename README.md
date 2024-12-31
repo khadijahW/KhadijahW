@@ -10,20 +10,22 @@ Feel free to connect with me on LinkedIn
 (https://www.linkedin.com/in/khadijah-w-44bb48238/)
 
 
+
 # Projects 
 ### Project 1: 
 [Okta Identity and Access Management](Okta)
-
+- Description: Implemented Okta features such as user creation,Authentication policies and Org-to-Org integration.
+- Technologies:SAML 2.0, SSO, MFA, RBAC, SCIM, Policy Creation
 
 ### Project 2: 
 [Cyberark PAM](CyberArk)
-
+- Description:Implemented CyberArk solutions for secure privileged acces managmeent including user onboarding,session monitoring and policy configuration.
+- Technologies:Vault,PSM,CPM,LDAP, Active Directory
 
 ### Project 3: 
 [Building a SOC](https://github.com/Flash028/Flash028/blob/main/BUILDING%20A%20SOC/building-a-soc.md)
 - Description: In this project I designed a SOC + Honeynet using the Microsoft Azure Cloud Enviroment. This initiative aimed to enhance my cybersecurity capabiltiies through simulated attack scenarious and real-time threat monitoring.
 - Technologies Used: Microsoft Azure,Microsoft Sentinel, Virtual Machines, Log Analytics Workspace
-
 
 ### Project 4: 
 [Vulnerability Management](https://github.com/Flash028/Flash028/blob/main/Vulnerability%20Assessment/Vulnerability.Assessment.md)
