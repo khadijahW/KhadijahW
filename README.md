@@ -11,11 +11,13 @@ Feel free to connect with me on LinkedIn
 
 
 # Projects 
-### Project 1: In Progress
-[Okta Identity and Access Management]
+### Project 1: 
+[Okta Identity and Access Management](Okta)
 
-### Project 2: In Progress
-[Cyberark PAM]
+
+### Project 2: 
+[Cyberark PAM](CyberArk)
+
 
 ### Project 3: 
 [Building a SOC](https://github.com/Flash028/Flash028/blob/main/BUILDING%20A%20SOC/building-a-soc.md)
