@@ -13,7 +13,7 @@ Feel free to connect with me on LinkedIn
 
 # Projects 
 ### Project 1: 
-[SonarSnyk Lab](https://github.com/khadijahW/SonarSnyk/README.md)
+[SonarSnyk Lab](https://github.com/khadijahW/Flash028/blob/71df6ee8426d1523ae0dd951ce1257697b66b020/SonarSnyk/SonarSnyk.md)
 - Description: 
 - Technologies:SonarQube,Snyk,Node.js
   
