@@ -12,7 +12,7 @@
 ## 👋 About Me  
 <small>I’m a cybersecurity enthusiast with a passion for threat hunting, vulnerability management, and cloud security. I enjoy working on hands-on projects to strengthen my skills and contribute to the cybersecurity community.</small>  
 
-<small>Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khadijah-w-44bb48238/)!</small>  
+<small>Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khadijah-w-44bb48238/))!</small>  
 
 ## 🚀 Featured Projects  
 
