@@ -6,54 +6,26 @@
 ![Khadijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijahW&show_icons=true&theme=tokyonight)  
 
 ---
-
 ## 👋 About Me  
 <small>I’m a cybersecurity enthusiast with a passion for threat hunting, vulnerability management, and cloud security. I enjoy working on hands-on projects to strengthen my skills and contribute to the cybersecurity community.</small>  
 
 <small>Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khadijah-w-44bb48238/)!</small>  
 
----
-
 ## 🚀 Featured Projects  
 
-### 🔵 **BLUE TEAM** 🔵  
-<small>🔍 **Threat Event (Unauthorized TOR Usage)**  
-- Investigated and documented unauthorized TOR usage in a simulated environment.  
-- **Technologies**: Wireshark, SIEM tools, TOR network analysis.</small>  
+### 🔵 **Blue Team** 🔵  
+<small>🔍 **[Threat Event (Unauthorized TOR Usage)](https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md)
+<small>🛠️ **[SonarSnyk Lab](https://github.com/khadijahW/Flash028/blob/226a571bce421dd420b28b3ea954d7f3a94f3c47/SonarSnyk/SonarSnyk.md)**  
+<small>🔐 **[Okta Identity and Access Management](https://github.com/khadijahW/Flash028/blob/b3761cc35c9adb1aa7d0c91c2c1e075cc52a2385/Okta/Okta.md)**  
+<small>🛡️ **[CyberArk PAM](https://github.com/kdee028/Flash028/blob/3e8eff4000e2ee34c1d41afe97ae2a6c3d25fdc0/Cyberark/Cyberark.md)**  
+<small>🏗️ **[Building a SOC](https://github.com/Flash028/Flash028/blob/main/BUILDING%20A%20SOC/building-a-soc.md)**  
+<small>🔍 **[Vulnerability Management](https://github.com/Flash028/Flash028/blob/main/Vulnerability%20Assessment/Vulnerability.Assessment.md)**  
+<small>🔵 **[Blue Team Junior Analyst](https://github.com/khadijahW/Flash028/blob/main/Blue%20Team%20Junior%20Analyst/SBT.md)**  
+<small>🖥️ **[Active Directory](https://github.com/khadijahW/Flash028/blob/main/Active%20Directory.md)**  
+<small>☁️ **[Azure Cloud Resume](https://github.com/khadijahW/CyberFlash/blob/179579dcebc2476c707f70b37321e3e49116093f/README.md)**  
 
-<small>🛠️ **SonarSnyk Lab**  
-- Conducted static code analysis and vulnerability scanning using SonarQube and Snyk.  
-- **Technologies**: SonarQube, Snyk, Node.js.</small>  
-
-<small>🔐 **Okta Identity and Access Management**  
-- Implemented Okta features such as user creation, authentication policies, and Org-to-Org integration.  
-- **Technologies**: SAML 2.0, SSO, MFA, RBAC, SCIM, Policy Creation.</small>  
-
-<small>🛡️ **CyberArk PAM**  
-- Implemented CyberArk solutions for secure privileged access management, including user onboarding, session monitoring, and policy configuration.  
-- **Technologies**: Vault, PSM, CPM, LDAP, Active Directory.</small>  
-
-<small>🏗️ **Building a SOC**  
-- Designed a SOC + Honeynet using Microsoft Azure to simulate attack scenarios and monitor real-time threats.  
-- **Technologies**: Microsoft Azure, Microsoft Sentinel, Virtual Machines, Log Analytics Workspace.</small>  
-
-<small>🔍 **Vulnerability Management**  
-- Executed a vulnerability management project using Qualys and Nessus to identify and mitigate vulnerabilities.  
-- **Technologies**: Nessus Essentials, Qualys Vulnerability Management.</small>  
-
-<small>🔵 **Blue Team Junior Analyst**  
-- Explored network analysis, OSINT, digital forensics, dark web operations, threat hunting, and vulnerability management.  
-- **Technologies**: Wireshark, Maltego, Base64 Decoder, OSINT Framework.</small>  
-
-<small>🖥️ **Active Directory**  
-- Deployed a Microsoft Server 2016 and Windows 10 machine for Active Directory configuration.  
-- **Technologies**: VMware VirtualBox, Microsoft Server 2019, Windows 10.</small>  
-
-<small>☁️ **Azure Cloud Resume**  
-- Created a cloud resume using Azure services.  
-- **Technologies**: Azure Functions, Azure Storage, Cosmos DB, Azure App Services, Front Door & CDN profiles.</small>  
-
----
+## 💻 **Coding Projects**  
+<small>🔒 **[File Integrity Tracker](https://github.com/khadijahW/File-Integrity-Tracker)**  
 
 ## 🌱 What I’m Currently Learning  
 <small>- Advanced threat hunting techniques  
@@ -61,7 +33,6 @@
 - Automation with Python and PowerShell  
 - IAM tools (CyberArk, Sailpoint)</small>  
 
----
 
 ## 📫 Let’s Connect!  
 <small>- [LinkedIn](https://www.linkedin.com/in/khadijah-w-44bb48238/)  
@@ -69,4 +40,4 @@
 
 ---
 
-<small>Thanks for visiting my GitHub profile! 🚀</small>  
+<small>Thanks
