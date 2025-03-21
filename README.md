@@ -35,7 +35,7 @@
 
 
 ## 📫 Let’s Connect!  
-<small>- [LinkedIn](https://www.linkedin.com/in/khadijah-w-44bb48238/)  
+- [LinkedIn](https://www.linkedin.com/in/khadijah-w-44bb48238/)</small>
 - [GitHub](https://github.com/khadijahW)</small>  
 
 ---
