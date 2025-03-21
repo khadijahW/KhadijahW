@@ -28,7 +28,7 @@
 <small>☁️ **[Azure Cloud Resume](https://github.com/khadijahW/CyberFlash/blob/179579dcebc2476c707f70b37321e3e49116093f/README.md)**  
 
 ## 💻 **Coding Projects**  
-<small>🔒 **[File Integrity Tracker](https://github.com/khadijahW/File-Integrity-Tracker)**  
+<small>🔒 **[File Integrity Tracker](https://github.com/khadijahW/Flash028/blob/732e0d757ec45e2814e7d6f678dc333b42770487/File-integrity-Tracker.md)**  
 
 ## 🌱 What I’m Currently Learning  
 <small>- Advanced threat hunting techniques  
