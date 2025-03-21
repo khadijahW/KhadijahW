@@ -5,7 +5,7 @@
 
 
 <div align="center">
-    <a href="www.linkedin.com/in/khadijah-w-44bb48238"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="[www.linkedin.com/in/khadijah-w-44bb48238](https://www.linkedin.com/in/khadijah-w-44bb48238/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
