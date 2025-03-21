@@ -14,7 +14,7 @@
 ## 🚀 Featured Projects  
 
 ### 🔵 **Blue Team** 🔵  
-<small>🔍 **[Threat Event (Unauthorized TOR Usage)](https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md)
+<small>🔍 **[Threat Event (Unauthorized TOR Usage)](https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md)**
 <small>🛠️ **[SonarSnyk Lab](https://github.com/khadijahW/Flash028/blob/226a571bce421dd420b28b3ea954d7f3a94f3c47/SonarSnyk/SonarSnyk.md)**  
 <small>🔐 **[Okta Identity and Access Management](https://github.com/khadijahW/Flash028/blob/b3761cc35c9adb1aa7d0c91c2c1e075cc52a2385/Okta/Okta.md)**  
 <small>🛡️ **[CyberArk PAM](https://github.com/kdee028/Flash028/blob/3e8eff4000e2ee34c1d41afe97ae2a6c3d25fdc0/Cyberark/Cyberark.md)**  
