@@ -25,12 +25,10 @@
 
 
 <!--Github stats Table--> 
-<h2 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
-
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h2 align="center"><strong>Github Stats</strong></h2>
       <p align="center">
         <a href="https://github.com/KhadijahW">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhadijahW&count_private=true&show_icons=true&theme=nightowl&bg_color=,000000,4B0082&title_color=FFFFFF&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -38,31 +36,28 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/KhadijahW">
-          <img align="center" src="https://streak-stats.demolab.com?user=KhadijahW&theme=nightowl&background=0,000000,2ea44f&fire=FFFF00&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=FFFFFF&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+    
 <br />
 <!--Contribution Graph-->
 <h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhadijahW&theme=nightowl&background=0,000000,2ea44f&fire=FFFF00&line=2ea44f&point=FFFFFF&area=false&hide_border=false" border-radius="15">
-</div>
-
----
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhadijahW&theme=nightowl&background=0,000000,2ea44f&fire=FFFF00&line=2ea44f&point=FFFFFF&area=true&hide_border=false" border-radius="25">
+</p>
 
 
+</table>
+
+
+
+
+<br>
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KhadijahW&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="KhadijahW" style="padding-right:20px;" />
 </p>
 
----
+
+
 
 
 
