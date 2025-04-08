@@ -59,9 +59,41 @@
 
 
 
-
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/749c579d-7d25-4a11-9fe6-b0b742d681d5" width="60"/><br>
+        <b>CompTIA Security+</b><br>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/0cc2e76b-37fb-4455-90d6-c5c0c356a924?style=flat-square" width="60"/><br>
+        <b>Certified Ethical Hacker (CEH)</b><br>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/1b756e93-8233-4ac3-85c6-f1d83299ccc3" width="50"/><br>
+        <b>Okta Certified Professional</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/microsoft.png" width="50"/><br>
+        <b>Microsoft Cybersecurity & Info Assurance</b><br>
+        <img src="https://img.shields.io/badge/Microsoft-Azure-blue?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/96/000000/console.png" width="50"/><br>
+        <b>CCNA</b><br>
+        <img src="https://img.shields.io/badge/Cisco-Certified-green?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/000000/cloud.png" width="50"/><br>
+        <b>Azure Fundamentals (AZ-900)</b><br>
+        <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-blueviolet?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
