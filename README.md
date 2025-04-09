@@ -8,7 +8,7 @@
 
 ---
 
-## Featured Projects  
+## Projects  
 <small> **[Threat Event (Unauthorized TOR Usage)](https://github.com/kdee028/Flash028/blob/0c6322ee92e7067c6b14988d3cc215471c147a6f/Threat-Hunting.md)** </br>
 <small> **[SonarQube & Snyk Lab](https://github.com/khadijahW/Flash028/blob/226a571bce421dd420b28b3ea954d7f3a94f3c47/SonarSnyk/SonarSnyk.md)**  
 <small> **[Okta Identity and Access Management](https://github.com/khadijahW/Flash028/blob/b3761cc35c9adb1aa7d0c91c2c1e075cc52a2385/Okta/Okta.md)**  
@@ -19,8 +19,9 @@
 <small> **[Active Directory](https://github.com/khadijahW/Flash028/blob/main/Active%20Directory.md)**  
 <small> **[Azure Cloud Resume](https://github.com/khadijahW/CyberFlash/blob/179579dcebc2476c707f70b37321e3e49116093f/README.md)** <br>
 <small> **[Threat Event (Microsoft Azure Breach)](https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md)**<br>
-<small> **[Splunk](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)**<br>
+<small> **[Corelight Suricata](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)**<br>
 <small> **[File Integrity Tracker](https://github.com/khadijahW/Flash028/blob/732e0d757ec45e2814e7d6f678dc333b42770487/File-integrity-Tracker.md)**  
+<small> ** [Splunk+AtomicRedTeam](https://github.com/khadijahW/Flash028/blob/36ce5eb48e72d441390335bc12ddd474a72f9e25/Splunk/Splunk.md)**
 
 
 
