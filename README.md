@@ -80,7 +80,7 @@
     <tr>
       <td align="center">
         <img src="https://img.icons8.com/color/96/000000/microsoft.png" width="50"/><br>
-        <b>Microsoft Cybersecurity & Info Assurance</b><br>
+        <b>Microsoft AI 900</b><br>
         <img src="https://img.shields.io/badge/Microsoft-Azure-blue?style=flat-square"/>
       </td>
       <td align="center">
@@ -90,8 +90,8 @@
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/96/000000/cloud.png" width="50"/><br>
-        <b>Azure AI Fundamentals (AI-900)</b><br>
-        <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-blueviolet?style=flat-square"/>
+        <b>CyberArk(Def-PAM)</b><br>
+        <img src="https://img.shields.io/badge/Cloud-Microsoft%20CyberArk-blueviolet?style=flat-square"/>
       </td>
     </tr>
   </table>
