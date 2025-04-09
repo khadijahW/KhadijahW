@@ -21,7 +21,8 @@
 <small> **[Threat Event (Microsoft Azure Breach)](https://github.com/khadijahW/Flash028/blob/fd4085a445653c21a91215bd957156b20eacfea1/Threat-Hunt-Report.md)**<br>
 <small> **[Corelight Suricata](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)**<br>
 <small> **[File Integrity Tracker](https://github.com/khadijahW/Flash028/blob/732e0d757ec45e2814e7d6f678dc333b42770487/File-integrity-Tracker.md)**  
-<small> **[Splunk+AtomicRedTeam](https://github.com/khadijahW/Flash028/blob/36ce5eb48e72d441390335bc12ddd474a72f9e25/Splunk/Splunk.md)**
+<small> **[Splunk+AtomicRedTeam](https://github.com/khadijahW/Flash028/blob/36ce5eb48e72d441390335bc12ddd474a72f9e25/Splunk/Splunk.md)**<br>
+<small> **[STIG Remediation](https://github.com/khadijahW/Flash028/blob/e5ecb885ef1e07603df5146b603ba56c0e551589/Tenable/STIG%20Remediation.md)**
 
 
 
