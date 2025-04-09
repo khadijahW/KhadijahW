@@ -91,7 +91,7 @@
       <td align="center">
         <img src="https://img.icons8.com/color/96/000000/cloud.png" width="50"/><br>
         <b>CyberArk(Def-PAM)</b><br>
-        <img src="https://img.shields.io/badge/Cloud-Microsoft%20CyberArk-blueviolet?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Cloud-CyberArk-blueviolet?style=flat-square"/>
       </td>
     </tr>
   </table>
