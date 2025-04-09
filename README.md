@@ -90,7 +90,7 @@
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/96/000000/cloud.png" width="50"/><br>
-        <b>Azure Fundamentals (AZ-900)</b><br>
+        <b>Azure AI Fundamentals (AI-900)</b><br>
         <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-blueviolet?style=flat-square"/>
       </td>
     </tr>
