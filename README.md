@@ -17,7 +17,7 @@
 - Vulnerability Management
   - <small> **[SonarQube & Snyk Lab](https://github.com/khadijahW/Flash028/blob/226a571bce421dd420b28b3ea954d7f3a94f3c47/SonarSnyk/SonarSnyk.md)**
   - <small> **[Vulnerability Management](https://github.com/Flash028/Flash028/blob/main/Vulnerability%20Assessment/Vulnerability.Assessment.md)**
-  - <small> **[STIG Remediation's](https://github.com/khadijahW/Flash028/blob/e5ecb885ef1e07603df5146b603ba56c0e551589/Tenable/STIG%20Remediation.md)*
+  - <small> **[STIG Remediation's](https://github.com/khadijahW/Flash028/blob/e5ecb885ef1e07603df5146b603ba56c0e551589/Tenable/STIG%20Remediation.md)**
 - Splunk
   - <small> **[Corelight Suricata](https://github.com/khadijahW/Flash028/blob/facc1dc0e6f75eb874005702f0afd39a6075c310/BOTS.md)**<br>
   - <small> **[Splunk+AtomicRedTeam](https://github.com/khadijahW/Flash028/blob/36ce5eb48e72d441390335bc12ddd474a72f9e25/Splunk/Splunk.md)**<br>
