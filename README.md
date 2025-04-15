@@ -29,6 +29,8 @@
     - <small> **[Sailpoint](https://github.com/khadijahW/Flash028/blob/aa96b8fcbe23d3048199ce38eaf18f5fb9c17ab1/Sailpoint-setup.md)**
 - Linux
     - <small> **[Metasploitable](https://github.com/khadijahW/Flash028/blob/bbdf053a84577a81e18d46df09801df684c6d146/Kali%20Linux/metasploitable2.md)**
+- Hack the box
+   
 - Other
     - <small> **[Active Directory](https://github.com/khadijahW/Flash028/blob/main/Active%20Directory.md)**  
     - <small> **[Azure Cloud Resume](https://github.com/khadijahW/CyberFlash/blob/179579dcebc2476c707f70b37321e3e49116093f/README.md)** <br>
