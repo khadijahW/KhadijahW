@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2ea44f&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello+Welcome!+;+I'm+Khadijah!;" />
 </h1>
 
-
 ## About Me  
 <small>I’m a cybersecurity enthusiast with a passion for threat hunting, vulnerability management, and cloud security. I enjoy working on hands-on projects to strengthen my skills and contribute to the cybersecurity community.</small>  
 
@@ -29,7 +28,7 @@
     - <small> **[CyberArk PAM](https://github.com/kdee028/Flash028/blob/3e8eff4000e2ee34c1d41afe97ae2a6c3d25fdc0/Cyberark/Cyberark.md)**
     - <small> **[Sailpoint](https://github.com/khadijahW/Flash028/blob/aa96b8fcbe23d3048199ce38eaf18f5fb9c17ab1/Sailpoint-setup.md)**
 - Linux
-    - <small> **[Metasploitable](https://github.com/khadijahW/Flash028/blob/bbdf053a84577a81e18d46df09801df684c6d146/Kali%20Linux/metasploitable2.md)**
+    - <small> **[Metasploit](https://github.com/khadijahW/Flash028/blob/bbdf053a84577a81e18d46df09801df684c6d146/Kali%20Linux/metasploitable2.md)**
 - Hack the box
    - <small> **[MEOW](https://github.com/khadijahW/Flash028/blob/b3fee9ae5c337358f4d7f0f508a2ee7d3b90969a/HTB/Meow.md)**
 - Other
