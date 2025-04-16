@@ -30,7 +30,7 @@
 - Linux
     - <small> **[Metasploitable](https://github.com/khadijahW/Flash028/blob/bbdf053a84577a81e18d46df09801df684c6d146/Kali%20Linux/metasploitable2.md)**
 - Hack the box
-   
+   - <small> **[MEOW](https://github.com/khadijahW/Flash028/blob/b3fee9ae5c337358f4d7f0f508a2ee7d3b90969a/HTB/Meow.md)**
 - Other
     - <small> **[Active Directory](https://github.com/khadijahW/Flash028/blob/main/Active%20Directory.md)**  
     - <small> **[Azure Cloud Resume](https://github.com/khadijahW/CyberFlash/blob/179579dcebc2476c707f70b37321e3e49116093f/README.md)** <br>
